@@ -1,4 +1,5 @@
 
+
 /* Hiệu ứng bổ sung — không thay đổi thuật toán vẽ hoa */
 
 (() => {
@@ -47,3 +48,4 @@
     fx.classList.add("reduce-motion");
   }
 })();
+
